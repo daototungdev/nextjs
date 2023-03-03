@@ -66,6 +66,8 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
+            <h2>style blank span</h2>
+            <h2>description</h2>
             <h2 className={inter.className}>
               Docs <span>-&gt;</span>
             </h2>
@@ -115,7 +117,10 @@ export default function Home() {
               Instantly deploy your Next.js site to a shareable URL
               with&nbsp;Vercel.
             </p>
+            <h2>deploy </h2>
           </a>
+          <h2>styling conser install local nextjs a sharedable</h2>
+          <h2>styling conser</h2>
         </div>
       </main>
     </>

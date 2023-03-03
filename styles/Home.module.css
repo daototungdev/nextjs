@@ -25,6 +25,12 @@
   gap: 0.5rem;
 }
 
+.description c {
+  display: flex;
+  align-content: center;
+  justify-content: center
+}
+
 .description p {
   position: relative;
   margin: 0;
